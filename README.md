@@ -16,7 +16,7 @@ Well, recently I needed phone picker control (you know, international, with flag
 
 ## How small, exactly?
 
-Let's say, `< 500` bytes each. So, like, less than 100k in total.
+Let's say, `< 1000` bytes each. So, like, less than 200k in total.
 Obviously, that means flags cannot be very detailed, but that's ok, as they are supposed to be used as small thumbnails.
 
 ## Hm, that sounds stupid, but I want to help anyway
