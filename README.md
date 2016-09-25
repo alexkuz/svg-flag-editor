@@ -21,7 +21,7 @@ Obviously, that means flags cannot be very detailed, but that's ok, as they are 
 
 ## Hm, that sounds stupid, but I want to help anyway
 
-Great! You can draw your favorite (or least favorite, whatever) flag in any vector editor (flag size is 120x90), save it in SVG and paste the source in this tool. Then, clean it up and make a PR in [micro-flag-icons](https://github.com/alexkuz/micro-flag-icons) repo.
+Great! You can draw your favorite (or least favorite, whatever) flag in any vector editor (flag size is 240x180), save it in SVG and paste the source in this tool. Then, clean it up and make a PR in [micro-flag-icons](https://github.com/alexkuz/micro-flag-icons) repo.
 
 ## But why do you use `pug` here?
 
